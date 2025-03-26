@@ -27,18 +27,6 @@ La estructura y las tareas del backlog están diseñadas para simular las dinám
 - Adquirir experiencia en el trabajo en equipo bajo un marco ágil.
 - Preparar a los participantes para integrarse eficientemente en un equipo de DevOps.
 
-## Inicio Rápido
-
-1. **Configura el equipo y el proyecto:**
-   - Crea una organización en GitHub y realiza un fork del repositorio base.
-   - Ejecuta el workflow de GitHub Actions para inicializar el backlog.
-
-2. **Consulta el backlog:**
-   - Revisa el archivo [backlog.md](./backlog/readme.md) para conocer las tareas iniciales y generales del proyecto.
-
-3. **Comienza a trabajar:**
-   - Sigue las instrucciones y referencias en el backlog para completar las tareas asignadas durante los sprints.
-
 
 ## Estructura del Proyecto
 
