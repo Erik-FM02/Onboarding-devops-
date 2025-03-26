@@ -15,7 +15,5 @@ En esta carpeta encontrarás ejercicios prácticos para configurar un entorno b�
 3. **Docker Compose** (`03-docker-compose/`)  
    Gestiona múltiples servicios usando un archivo `docker-compose.yml`.
 
-4. **Volúmenes y redes** (`04-volumenes-y-redes/`)  
-   Configura volúmenes para persistencia y redes personalizadas para conectar contenedores.
 
 ---
