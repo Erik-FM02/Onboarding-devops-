@@ -54,13 +54,6 @@ El proyecto se organiza en sprints que cubren los siguientes objetivos:
 - Cuenta activa en GitHub para colaborar en los repositorios del proyecto.
 - Acceso a herramientas como Docker y AWS para las prácticas.
 
-## Documentación Adicional
-
-- **[Backlog completo](./backlog/readme.md):** Se encuentra documentado como parte del proyecto. Se vuelca como proyecto en Github con gh actions.
-- **[Git flow](./resources/git_flow.md)**: Más información acerca de la política de branching del proyecto
-- **Guías paso a paso:** Instrucciones detalladas para cada tarea del proyecto.
-
----
 
 Este proyecto está diseñado para proporcionar una experiencia práctica en la dinámica de un equipo DevOps, fortaleciendo las competencias técnicas y metodológicas necesarias para enfrentar los desafíos del sector IT. ¡Bienvenido al proyecto Onboarding DevOps!
 
