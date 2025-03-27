@@ -23,6 +23,7 @@ services:
       - LOCALSTACK_API_KEY=your_api_key # Opcional, para funcionalidades avanzadas
     volumes:
       - "./localstack:/var/lib/localstack"
+---
 
 ### Paso 2: Iniciar LocalStack
 
