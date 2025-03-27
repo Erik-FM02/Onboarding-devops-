@@ -19,3 +19,28 @@ LocalStack corre en **Docker** y expone una API compatible con AWS, por lo que p
 - 🗄 **DynamoDB** → Base de datos NoSQL  
 - 🏗 **CloudFormation** → Infraestructura como código  
 - 🔄 **Lambda** → Funciones sin servidor  
+
+
+# Administración de Redes con LocalStack
+
+En esta categoría aprenderás a simular redes y servicios de AWS en local utilizando LocalStack. Trabajaremos con VPCs, subredes y buckets S3 para backups.
+
+---
+
+## **Ejercicios**
+
+1. **VPC y red básica**  
+   Configura una red virtual simulada con una tabla de enrutamiento y un gateway de Internet.
+
+2. **Subredes en la VPC**  
+   Crea subredes públicas y privadas en la VPC simulada y asócialas a instancias.
+
+3. **S3 para backups**  
+   Configura un bucket S3 para almacenar datos simulados con políticas de acceso personalizadas.
+
+---
+
+## **Requisitos previos**
+
+- Instalar [LocalStack](https://github.com/localstack/localstack).
+- Configurar el AWS CLI para apuntar a LocalStack.
