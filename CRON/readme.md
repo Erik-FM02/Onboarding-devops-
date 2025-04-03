@@ -35,7 +35,7 @@ Investigar y aplicar el uso de `cron` para automatizar tareas en Linux, integrá
 - Prueba el script deteniendo el servicio manualmente y verifica que `cron` lo reinicia.  
 
 ---
-### **Tarea 7 : Despliegue y Monitoreo de Contenedores con Cron y Docker**
+### **Tarea 5 : Despliegue y Monitoreo de Contenedores con Cron y Docker**
 #### **Objetivo:**  
 Automatizar el despliegue y monitoreo de un contenedor Docker usando `cron`, asegurando que se reinicie si deja de ejecutarse.  
 
