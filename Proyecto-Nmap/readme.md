@@ -1,4 +1,4 @@
-# **Resumen del Mini Proyecto: Análisis de Red y Seguridad con Nmap**
+# **Resumen del  Proyecto: Análisis de Red y Seguridad con Nmap**
 
 ## **Temas a Trabajar:**
 1. **Investigación sobre Nmap:**
