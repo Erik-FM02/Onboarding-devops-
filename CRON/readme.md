@@ -58,8 +58,5 @@ Automatizar el despliegue y monitoreo de un contenedor Docker usando `cron`, ase
    - Detén el contenedor manualmente (`docker stop <nombre_contenedor>`) y verifica que el script lo reinicia.  
    - Revisa los logs del sistema para asegurarte de que la tarea de `cron` se ejecuta correctamente.  
 
-5. **Entrega:**  
-   - Documenta el proceso, incluyendo los comandos utilizados y las pruebas realizadas.  
-   - Adjunta el script de monitoreo y el archivo `crontab` con la configuración.  
 
 ---
