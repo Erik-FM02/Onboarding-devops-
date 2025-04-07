@@ -1,4 +1,4 @@
-# Ejercicio de Kubernetes: Instalación y Despliegue de una Aplicación Simple
+# Practica de Kubernetes: Instalación y Despliegue de una Aplicación Simple
 
 ## Objetivo
 El objetivo de este ejercicio es aprender a instalar **Kubernetes** utilizando **Minikube** en una máquina local y luego desplegar una aplicación simple en un **Pod**.
